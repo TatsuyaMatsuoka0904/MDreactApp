@@ -3,5 +3,9 @@
     "version": "1.0.0",
     "scripts": {
         "start": "echo 'Hello'"
+    },
+    "dependencies": {
+        "webpack": "^5.65.0",
+        "webpack-cli": "^4.9.1"
     }
 }
